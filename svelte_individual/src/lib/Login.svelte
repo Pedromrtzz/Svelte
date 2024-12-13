@@ -9,8 +9,9 @@
   <input type="password" placeholder="Contraseña" />
   <button class="boton" type="submit">Iniciar sesión</button>
   <div class="links">
-    ¿Aún no tienes cuenta? <a href="#">Regístrate</a><br />
-    ¿Olvidaste tu contraseña?
+    <p>¿Aún no tienes cuenta? <a href="#">Regístrate</a></p>
+    <br/>
+    <p>¿Olvidaste tu contraseña?</p>
   </div>
   <div class="separador"></div>
 </div>
