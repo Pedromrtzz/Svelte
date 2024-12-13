@@ -1,11 +1,11 @@
 <script>
 </script>
 
-<link rel="stylesheet" href="css/formularioAcceso.css" />
+<link rel="stylesheet" href="css/registro.css" />
 
 <div class="contenedor-formulario">
   <div class="titulo-formulario">
-    <h1>Formulario Acceso</h1>
+    <h1>Formulario de Registro</h1>
   </div>
 
   <div class="formulario">
